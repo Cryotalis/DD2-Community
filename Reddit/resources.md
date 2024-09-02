@@ -57,13 +57,3 @@ Useful information for end-game players.
 ---
 
 A collection of miscellaneous useful data and info.
-<!--
-
-This is commented out because the forums are currently down.
-
-## [Dungeon Defenders Forums](https://dungeondefenders.com/2/forum/16/players-helping-players)
----
-
-The Players Helping Players section of the official forums is a good place to ask more complex or technical questions, if you don't mind waiting for a reply.
-
--->
