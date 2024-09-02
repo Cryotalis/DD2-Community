@@ -1,71 +1,69 @@
-# __Community Resources__
-
-## [DD2Tools](http://dd2tools.com/)
+# [Dungeon Defenders Discord](http://discord.me/dd2)
 ---
 
-A website designed to allow you to easily find the shards you've been searching for, and even create and share your hero builds and map layouts with others in a public space. More features to come!
+The go-to place to ask any questions about the Dungeon Defenders games. Just drop by the #help-chat that corresponds to your DD game and ask away!
 
---
-
-## [Defense Stat Scaling](https://docs.google.com/spreadsheets/d/1npVxN8NL85CO1wqTLl8uv2Ar0raKAJv-trWgrmigj4Q/)
+# [MrJuicebags YouTube Channel](https://www.youtube.com/user/MrJuicebags/)
 ---
 
-This doc lists how effectively each tower scales with each stat. Useful when deciding which relic should go with which tower! Includes a section to plug in the stats from your own relics.
+Juicebags is a consistent source of entertaining and educational Dungeon Defenders content. If you're a DD2 player, be sure to check out his [guides and tutorials](https://www.youtube.com/playlist?list=PLLsVTZAnioCh9Ryz_cteSVZfODolx1ctY) and [2024 progression series](https://www.youtube.com/playlist?list=PLLsVTZAnioCgiLCCDYrs3ETr7-lSIQIbB).
 
---
 
-## [MrJuicebags YouTube Channel](https://www.youtube.com/user/MrJuicebags/)
+# **DD2 Community Resources**
+
+## [Dungeon Defenders 2 Wiki](http://wiki.dungeondefenders2.com/wiki/Main_Page)
 ---
 
-A YouTube channel which primarily focuses on providing interesting and useful DD2 content including [guides and tutorials](https://www.youtube.com/playlist?list=PLLsVTZAnioCh9Ryz_cteSVZfODolx1ctY), [hero spotlights](https://www.youtube.com/playlist?list=PLLsVTZAnioCigtHUnL7GxMJFLaTZq7OXV), and other miscellaneous Dungeon Defenders related information.
+The Dungeon Defenders 2 wiki is packed full of useful information for beginners and veterans alike. The wiki is currently being maintained and updated by a small team of dedicated players in collaboration with Chromatic Games as of 2024.
 
---
 
-## [How to DD2: A Guide](https://redd.it/6e7cpz)
+## [Protobot Database](https://bit.ly/Protobot)
 ---
 
-A comprehensive community-made guide written for new and returning players who are looking for information about some of the latest updates and game mechanics.
+Database containing stats and info pertaining to shards, mods, defenses, and more.
 
---
 
-## [Lightrayne's Basic Info](https://docs.google.com/spreadsheets/d/1ONuUAUofbdaav4GUVvWy69CLEatFalT73mGuhhLaXJg/edit#gid=1534092592)
+## [DD2 Market Prices](https://bit.ly/dd2market)
 ---
 
-This is a basic sheet packed with info about mods, shards, enemy types, and more.
+Recommended prices for Mods, Pets, and more.
 
---
 
-## [Lightrayne's Hero Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1224683742)
+## [DD2 DPS Build Guides](https://docs.google.com/spreadsheets/d/14eqaz9FgWAM9jBZagH3araTz0509KvO3x2FssmdHvoA)
 ---
 
-This guide provides a general summary of some of the significant features of each hero you can purchase beyond the original four. In the end, you might just want to collect every hero to have as many options as possible, but if you want to prioritize along the way, the key is to define what you want by looking at specific features and speculating what looks fun to play. 
+Optimized DPS build guides for various Heroes
 
---
 
-## [Dungeon Defenders Wiki](http://wiki.dungeondefenders2.com/wiki/Main_Page)
+## [DD2 Defense Build Guides](https://docs.google.com/spreadsheets/d/1sjBA60Fr9ryVnw4FUIMU2AVXbKw395Tdz7j--EAUA1A)
 ---
 
-As you might expect, the wiki for Dungeon Defenders 2 is packed full of useful information for beginners and veterans alike. Due to the nature of the game being constantly updated, some things may or may not be outdated(especially after big updates).
+Optimal Defense builds for every Hero
 
---
+
+## [DD2 Strategy Hub](https://dd2strategyhub.com/)
+---
+
+Useful Tools and Calculators for DD2
+
+
+## [Arti's Onslaught Info & Calcs](https://docs.google.com/spreadsheets/d/1F7MsIIwdKJhhXrFMbUihtnH1pQnhyW06hX0RG2a-YVQ)
+---
+
+Useful information for end-game players.
+
+
+## [Intasa's Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1fBWuVgAn4gGDUg7WpsgUQgVeD1_qm6HX-tXnaNPtnTs)
+---
+
+A collection of miscellaneous useful data and info.
+<!--
+
+This is commented out because the forums are currently down.
 
 ## [Dungeon Defenders Forums](https://dungeondefenders.com/2/forum/16/players-helping-players)
 ---
 
 The Players Helping Players section of the official forums is a good place to ask more complex or technical questions, if you don't mind waiting for a reply.
 
---
-
-## [Report a Bug](https://bugs.dungeondefenders2.com/)
----
-
-DD2 Bug Reporting is a place where you can view and post bugs you've run into, be sure to include steps to reproduce the bug!
-
---
-
-## [Dungeon Defenders Discord](http://discord.me/dd2)
----
-
-If there's anything you want to know that you can't easily find on any of the resources above, someone is sure to know in the official Dungeon Defenders discord server. Drop on by the [#help-chat](https://discord.gg/SGKjH2X) and ask away!
-
---
+-->
