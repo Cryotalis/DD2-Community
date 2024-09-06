@@ -21,3 +21,13 @@ Juicebags is a consistent source of entertaining and educational Dungeon Defende
 | [DD2 Strategy Hub](https://dd2strategyhub.com/)                                                                 | Useful Tools and Calculators for DD2.                                              |
 | [Onslaught Info & Calcs](https://docs.google.com/spreadsheets/d/1F7MsIIwdKJhhXrFMbUihtnH1pQnhyW06hX0RG2a-YVQ)   | Useful information for end-game players, made by Arti.                             |
 | [Intasa's Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1fBWuVgAn4gGDUg7WpsgUQgVeD1_qm6HX-tXnaNPtnTs) | A collection of miscellaneous useful data and info.                                |
+
+# **DD1 Community Resources**
+
+| Link                                                                                                      | Description                                                                                        |
+|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [DDRNG Discord](https://discord.gg/ddrng)                                                                 | The heart of the DD1 Community.                                                                    |
+| [Chiku's Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2968079729)                        | The go-to progression guide that explains everything you need to know to reach late-game and more. |
+| [DunDefPlanner](https://dundefplanner.com/list.php)                                                       | A community driven site used for sharing builds for maps.                                          |
+| [Best In Slot Guide](https://docs.google.com/spreadsheets/d/11v0h3LLUDYEkTxvkLVWUzYv8wXvjZ1cPTJJ-o1QqVDM) | A community made guide that details the best in slot items and where to get them.                  |
+| [DD1 Wiki](https://dungeondefenders.fandom.com/)                                                          | A repository of general useful information.                                                        |
